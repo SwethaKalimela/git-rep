@@ -5,6 +5,7 @@ function Comp() {
     <div>
       Comp in new branch v3
       Comp in new branch v2
+      Comp in new branch v1
     </div>
   );
 }
